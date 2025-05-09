@@ -165,3 +165,23 @@ header {
 }
 
 /*Footer */
+
+footer {
+  background-color: #1a1a1a;
+  color: white;
+  padding: 20px;
+}
+
+.footer-container {
+  max-width: 1200px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.legal {
+  font-size: 12px;
+  max-width: 60%;
+}
+
